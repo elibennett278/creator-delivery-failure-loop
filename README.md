@@ -38,3 +38,7 @@ Quick start is above. For a real deployment you'll also need: The details below 
 
 **Creator Delivery Failure Loop: Observability**
 - **Creator Delivery Failure Loop:** Capture on the server (`POST /v1/errors/capture`); scrub PII before sending. Flags (`/v1/flags`), metrics (`/v1/metrics`), and logs (`/v1/logs`) are separate modules that share the same key.
+
+## Further reading
+
+- [Node.js Cron Monitoring: Healthchecks and Custom Metrics for SaaS Checkout Recovery](docs/node-js-cron-monitoring-healthchecks-and-custom-m-9343yu.md)
