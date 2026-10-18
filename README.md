@@ -41,4 +41,5 @@ Quick start is above. For a real deployment you'll also need: The details below 
 
 ## Further reading
 
+- [Small SaaS Feature Flag Kill Switch During Outage: Choose Unified Health Monitoring](docs/small-saas-feature-flag-kill-switch-during-outage-vycgyq.md)
 - [Node.js Cron Monitoring: Healthchecks and Custom Metrics for SaaS Checkout Recovery](docs/node-js-cron-monitoring-healthchecks-and-custom-m-9343yu.md)
